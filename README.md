@@ -4,7 +4,7 @@ I'm an MS graduate in Computational Analysis and Public Policy from the **Univer
  
 ---
  
-### 🔧 Featured Projects
+### Featured Projects
  
 - [**Multi-Agent Clinical KG Extraction**](https://github.com/hangoeun16/Clinical_KG_OS_LLM) *(Schmidt AI in Science Hackathon, 1st Place)*
   *Built a KB-free multi-agent LLM pipeline that extracts structured clinical knowledge graphs from doctor-patient transcripts using prompt-encoded medical ontology and parallel-voting aggregation; achieved 0.78 composite score in zero-shot setting with open-source models only*
@@ -16,7 +16,7 @@ I'm an MS graduate in Computational Analysis and Public Policy from the **Univer
   *Dual-source ETL pipeline replicating Jiang et al. (2024) bank fragility analysis on WRDS + FFIEC data. Selenium scraping, 21 pytest unit tests, GitHub Actions CI, automated LaTeX report generation*
 ---
  
-### 💼 Experience Highlights
+### Experience Highlights
  
 - **Data Science Clinic — Promega Corporation**
   *Built multimodal ML pipeline for organoid classification: 18-step ETL across microscopy images, metabolites, and surveys; ViT/CNN classifiers and LSTM time-series tracking on A100 GPU cluster*
@@ -28,7 +28,7 @@ I'm an MS graduate in Computational Analysis and Public Policy from the **Univer
   *Mentored 20+ students across 5 applied NLP projects including RAG chatbots, bias detection, and entity extraction; taught LLM fine-tuning, prompt engineering, and GenAI evaluation methods*
 ---
  
-### 🛠 Tech Stack
+### Tech Stack
  
 - **Languages:** Python, R, SQL, JavaScript, HTML/CSS, Bash
 - **ML/NLP:** PyTorch, scikit-learn, LangChain, LangGraph, Transformers, Hugging Face
