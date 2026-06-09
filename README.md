@@ -12,7 +12,7 @@ I'm an MS graduate in Computational Analysis and Public Policy from the **Univer
   *Graph-based RAG chatbot that extracts entities and relationships from natural language dialogue in real time, constructing and visualizing family trees from unstructured conversation. Built with LangChain, NetworkX, ChromaDB/FAISS, and Streamlit*
 - [**Gunmandu (군만두파티)**](https://github.com/hangoeun16/gunmanduparty)
   *Korean web novel reader simulator using LangGraph multi-agent architecture and BGE-M3 embeddings; clusters 800+ reader comments into reader archetypes via two-stage clustering. 2nd place, HCI course project*
-- [**FFIEC Bank Fragility Pipeline**](https://github.com/hangoeun16/p02a_monetary_tightening)
+- [**FFIEC Bank Fragility Pipeline**](https://github.com/hangoeun16/p08_jiang_et_al_2024)
   *Dual-source ETL pipeline replicating Jiang et al. (2024) bank fragility analysis on WRDS + FFIEC data. Selenium scraping, 21 pytest unit tests, GitHub Actions CI, automated LaTeX report generation*
 ---
  
