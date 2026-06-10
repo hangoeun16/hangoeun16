@@ -24,7 +24,7 @@ I'm an MS graduate in Computational Analysis and Public Policy from the **Univer
   *Queried and visualized 250+ GB of Epic EHR data (HIPAA-compliant); developed capacity optimisation models using mixed-integer linear programming and presented recommendations to clinical stakeholders*
 - **PEG Research — Procedural Equity in Building Code Enforcement**
   *Independent research applying Absorbing Markov Chain models to 154K+ enforcement episodes to quantify racial disparity in Chicago's building code enforcement. Targeting ACM CSCW 2027*
-- **UChicago Data Science Institute — Research Mentor**
+- [**UChicago Data Science Institute — Research Mentor**](https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/2025/)
   *Mentored 20+ students across 5 applied NLP projects including RAG chatbots, bias detection, and entity extraction; taught LLM fine-tuning, prompt engineering, and GenAI evaluation methods*
 ---
  
