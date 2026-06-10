@@ -19,7 +19,7 @@ I'm an MS graduate in Computational Analysis and Public Policy from the **Univer
 ### Experience Highlights
  
 - **Data Science Clinic — Promega Corporation**
-  *Built multimodal ML pipeline for organoid classification: 18-step ETL across microscopy images, metabolites, and surveys; ViT/CNN classifiers and LSTM time-series tracking on A100 GPU cluster*
+  *Built multimodal ML pipeline for organoid classification: 18-step ETL across microscopy images, metabolites, and surveys; in charge of building paper based per-day image and metabolites model using A100 GPU cluster*
 - [**Healthcare Analytics Lab — UChicago Medicine**](https://www.chicagobooth.edu/research/tolan/curriculum/healthcare-analytics-laboratory/2026-project-announcement)
   *Queried and visualized 250+ GB of Epic EHR data (HIPAA-compliant); developed capacity optimisation models using mixed-integer linear programming and presented recommendations to clinical stakeholders*
 - **PEG Research — Procedural Equity in Building Code Enforcement**
